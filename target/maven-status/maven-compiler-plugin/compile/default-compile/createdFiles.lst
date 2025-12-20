@@ -1,5 +1,3 @@
 com\tcs\angularjs\model\Customer.class
 com\tcs\angularjs\controller\RestWebController.class
-com\tcs\angularjs\controller\WebController.class
-com\example\springbootapp\HelloController.class
 com\tcs\angularjs\MyAwesomeSpringBootAngularJsApp.class
