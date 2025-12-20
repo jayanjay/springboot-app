@@ -1,3 +1,4 @@
+/*
 package com.tcs.angularjs.controller;
 
 import org.springframework.stereotype.Controller;
@@ -11,3 +12,4 @@ public class HelloController {
         return "index";
     }
 }
+*/
