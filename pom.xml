@@ -11,11 +11,12 @@
     <description>SpringBoot Angularjs</description>
  
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.4.2.RELEASE</version>
-        <relativePath/> 
+       <groupId>org.springframework.boot</groupId>
+       <artifactId>spring-boot-starter-parent</artifactId>
+       <version>2.7.18</version>
     </parent>
+
+<java.version>17</java.version>
  
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
